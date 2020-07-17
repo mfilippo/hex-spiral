@@ -2,7 +2,7 @@
 
 A generator of coordinates that can be used to create spirals of hexagons. This module only provides the coordinates of the hexagons centers forming a spiral, but it can be used with Mike Bostock's d3 plugin [d3-hexbin](https://github.com/d3/d3-hexbin) to actually draw the hexagons as shown in the example (click on the image).
 
-[<img alt="Spiral of hexagons" src="img/preview.png" width="420" height="219">](https://bl.ocks.org/mfilippo/4f48d2ddbbf3ab4a88598881fcfa60e7)
+[<img alt="Spiral of hexagons" src="img/preview.png">](https://bl.ocks.org/mfilippo/4f48d2ddbbf3ab4a88598881fcfa60e7)
 
 ## API Reference
 
